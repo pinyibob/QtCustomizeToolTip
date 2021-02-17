@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\A\Desktop\QtCustomizeTooltip\build\QtCustomizeTooltip_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\A\Desktop\QtCustomizeTooltip\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\A\Desktop\QtCustomizeTooltip\MyTooltip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\A\Desktop\QtCustomizeTooltip\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\A\Desktop\QtCustomizeTooltip\MainWindow.h">
+      <Filter>hFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\A\Desktop\QtCustomizeTooltip\MyTooltip.h">
+      <Filter>hFile</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\A\Desktop\QtCustomizeTooltip\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6BAA548D-F0E5-39EE-A9BB-F409695D7036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hFile">
+      <UniqueIdentifier>{5EA7BE5D-BEE5-3F1C-9813-B0EAB1F4541F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

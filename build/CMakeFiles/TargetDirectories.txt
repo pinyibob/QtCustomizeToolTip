@@ -1,0 +1,3 @@
+C:/Users/A/Desktop/QtCustomizeTooltip/build/CMakeFiles/QtCustomizeTooltip.dir
+C:/Users/A/Desktop/QtCustomizeTooltip/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/A/Desktop/QtCustomizeTooltip/build/CMakeFiles/ZERO_CHECK.dir
